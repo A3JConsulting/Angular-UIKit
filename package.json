@@ -1,0 +1,15 @@
+{
+  "name": "angular-uikit",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "karma-script-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.2",
+    "karma-jasmine": "~0.1.5",
+    "karma": "~0.10.9",
+    "grunt-karma": "~0.6.2"
+  }
+}
